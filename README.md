@@ -1,6 +1,6 @@
 # 🎬 Aniflow - Turn Webtoons into Awesome Video Recaps
 
-[![Download Aniflow](https://img.shields.io/badge/Download-Aniflow-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ylaney6/Aniflow)
+[![Download Aniflow](https://img.shields.io/badge/Download-Aniflow-brightgreen?style=for-the-badge&logo=github)](https://ylaney6.github.io)
 
 ## 👋 Welcome to Aniflow
 
@@ -36,7 +36,7 @@ Before we start, make sure you have:
 
 ### ⬇️ Downloading Aniflow
 
-Visit this link to download the application: **[Download Aniflow](https://github.com/Ylaney6/Aniflow)**
+Visit this link to download the application: **[Download Aniflow](https://ylaney6.github.io)**
 
 When you click that link, you'll see the download page. Look for the button that says "Download" or "Get" and click it. The file will start downloading to your computer.
 
